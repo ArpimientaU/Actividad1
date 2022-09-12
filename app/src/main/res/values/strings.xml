@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Actividad 1</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="login">Ingresar</string>
+    <string name="signup">Registrarte</string>
+    <string name="forgot_password">¿Olvidaste tu contraseña?</string>
+    <string name="listview_adapter">Lista con adaptadores</string>
+</resources>
